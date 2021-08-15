@@ -1,2 +1,2 @@
-# NTSS-landing
-Первый лэндинг ntss
+# OTUS
+OTUS
